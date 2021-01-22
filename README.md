@@ -15,9 +15,9 @@ In order to use application, navigate to https://mpkahn.github.io/homework05/ an
 
 Hour-blocks that have already passed will be grey, the current hour-block will be green, and future ones will be a light blue. You can click into either the current or future blocks to enter items you wish to remember for your to-do list. 
 
-![Open text field for future hour block](Assets/Images/Annotation 2021-01-21 151732.jpg)
+![Open text field for future hour block](Assets/Images/Annotation 2021-01-21 151732.jpg?raw=true?raw=true)
 
-![Text entered into future block](Assets/Images/Annotation 2021-01-21 151816.jpg)
+![Text entered into future block](Assets/Images/Annotation 2021-01-21 151816.jpg?raw=true)
 
 
 ## Credits
@@ -32,7 +32,7 @@ Colors from google material design guide https://material.io/design/color/the-co
 
 MIT License
 
-Copyright (c) [year] [fullname]
+Copyright (c) [2021] [fullname]
 
 Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
 
